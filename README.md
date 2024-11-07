@@ -102,7 +102,7 @@ Me chamo Gabriel Lineker Francisco, tenho 18 anos e sou natural de Minas Gerais 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLineker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLineker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>
