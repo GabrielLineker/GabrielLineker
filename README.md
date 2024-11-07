@@ -59,6 +59,14 @@ Me chamo Gabriel Lineker Francisco, tenho 18 anos e sou natural de Minas Gerais 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
+    align="left"
+    alt="Jupyter"
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"     
+/> 
+<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -74,6 +82,7 @@ Me chamo Gabriel Lineker Francisco, tenho 18 anos e sou natural de Minas Gerais 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />    
+
 
 <br/>
 <br/>
