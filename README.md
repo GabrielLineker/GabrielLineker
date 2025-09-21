@@ -1,6 +1,6 @@
 # 🖥️ Gabriel Lineker
 
-Me chamo Gabriel Lineker Francisco, tenho 18 anos e sou natural de Minas Gerais e residente em Juiz de Fora. Concluí o ensino médio na EEAC. Atualmente, estou cursando Sistemas de Informação na UFJF.
+Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais e residente em Juiz de Fora. Concluí o ensino médio na EEAC. Atualmente, estou cursando Sistemas de Informação na UFJF.
 ##
 <div> 
   <a href="https://www.instagram.com/gabriellinekerx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -102,7 +102,7 @@ Me chamo Gabriel Lineker Francisco, tenho 18 anos e sou natural de Minas Gerais 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLineker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLineker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
