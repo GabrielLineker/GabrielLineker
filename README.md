@@ -13,14 +13,6 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielLineker?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/GabrielLineker?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielLineker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 
