@@ -112,7 +112,7 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
 
 ### 📊 Estatísticas:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLineker&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLineker&theme=tokyonight" />
 
 <p>
   <img 
