@@ -123,7 +123,6 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
     src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLineker&theme=tokyonight&hide_border=true" 
   />
 
-  <br/>
   <img 
       align="left" 
       alt="GitHub Stats" 
