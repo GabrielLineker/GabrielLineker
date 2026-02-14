@@ -112,7 +112,7 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
 
 ### 📊 Estatísticas:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLineker&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLineker&theme=dracula" />
 
 <p>
   <img 
@@ -123,10 +123,11 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
     src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLineker&theme=tokyonight&hide_border=true" 
   />
 
-<img 
+  <br/>
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLineker&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLineker&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" 
   />
 </p>
