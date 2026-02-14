@@ -107,7 +107,6 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
 <br/>
 <br/>
 
@@ -121,7 +120,7 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLineker&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLineker&theme=tokyonight&hide_border=true" 
   />
 
 <img 
@@ -130,5 +129,4 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
       height="200" 
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLineker&layout=compact&theme=tokyonight&hide_border=true" 
   />
-
 </p>
