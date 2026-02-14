@@ -113,20 +113,22 @@ Me chamo Gabriel Lineker Francisco, tenho 19 anos e sou natural de Minas Gerais 
 
 ### 📊 Estatísticas:
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLineker&theme=tokyonight" />
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielLineker&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLineker&theme=tokyonight" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLineker&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLineker&layout=compact&theme=tokyonight&hide_border=true" 
   />
 
 </p>
